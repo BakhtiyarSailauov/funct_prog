@@ -1,5 +1,5 @@
 #exes 1
-print("Yernar istedi buni")
+print("Davai")
 from functools import reduce
 
 my_resume = {'name': 'Bakhtiyar',
